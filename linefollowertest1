@@ -1,4 +1,4 @@
-#define THRESHOLD 10
+#define THRESHOLD 400
 
 // Define Pins
 
